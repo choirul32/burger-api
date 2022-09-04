@@ -989,9 +989,9 @@
         "id": 1,
         "name": "CX-Stage",
         "backdrop": [
-          1, //type
-          1, //color
-          1, //light color
+          1,
+          1,
+          1
         ],
         "floorColor": 1
       },
@@ -999,11 +999,11 @@
         "id": 2,
         "name": "NU-Stage",
         "backdrop": [
-          2, //type
-          2, //color
-          2, //light color
+          2,
+          2,
+          2
         ],
         "floorColor": 2
-      },
-    ],
-  }
+      }
+    ]
+}
