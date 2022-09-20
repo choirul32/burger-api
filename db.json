@@ -1,56 +1,15 @@
 {
-    "virtual-stage": [
-      {
-        //ada 2
-        "banner": {
-          "type": "image", //atau "video"
-          "url": "https://i.ibb.co/GcMCM46/MLBB-03.png"
-        },
-        "screen_stage_30x6_top": {
-          "type": "image", //atau "running text"
-          "url": "https://i.ibb.co/48fqkGr/MLBB-02.png"
-        },
-        //ada 2
-        "screen_stage_9x18_center": {
-          "type": "image",
-          "url": "https://i.ibb.co/GcMCM46/MLBB-03.png"
-        },
-        //ada 2
-        "screen_stage_9x18_side": {
-          "type": "image",
-          "url": "https://i.ibb.co/ZYkL3Xn/MLBB-05.png"
-        },
-        //ada 2
-        "screen_stage_16x9_side": {
-          "type": "image", //atau "livestreaming" atau "video"
-          "url": "https://i.ibb.co/b2yS7b7/MLBB-07.png"
-        },
-        "screen_stage_16x9_center": {
-          "type": "image", //atau "livestreaming" atau "video"
-          "url": ""
-        },
-        //ukuran 15x9 ada 4
-        "screen_floating": {
-          "type": "image", //atau "video"
-          "url": "https://i.ibb.co/ScdnTRw/MLBB-01.png"
-        },
-      
-        "green_screen_url": "https://sadfadf.jpg",
-        //14x9
-        "spawn_screen_center": {
-          "type": "image", //atau "video"
-          "url": ""
-        },
-        //9x15
-        "spawn_screen_right": {
-          "type": "image", //atau "video"
-          "url": ""
-        },
-        //9x15
-        "spawn_screen_left": {
-          "type": "image", //atau "video"
-          "url": ""
-        }
-      }
-    ]
+  "virtual-stage": 
+  {
+    "banner":
+    {
+        "type": "image",
+        "url": "https://i.ibb.co/GcMCM46/MLBB-03.png"
+    },
+    "screen_stage_30x6_top":
+    {
+      "type": "image",
+      "url": "https://i.ibb.co/48fqkGr/MLBB-02.png"
+    }
+  }
 }
