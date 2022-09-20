@@ -896,5 +896,120 @@
           }
         ]
       }
+    ],
+    "resep-makanan": [
+      {
+        "id": "resep-capcay-sayuran-a-la-restoran",
+        "title": "Resep Capcay Sayuran a la Restoran, Menu Sahur Kini Semakin Lengkap",
+        "time": "1jam",
+        "servings": "4 Porsi",
+        "difficulty": "Mudah",
+        "recipe": "http://api-food-recipe.herokuapp.com/recipe/resep-capcay-sayuran-a-la-restoran",
+        "images": [
+          "https://www.masakapahariini.com/wp-content/uploads/2022/03/resep-capcay-goreng-a-la-restoran-400x240.jpg",
+          "https://www.masakapahariini.com/wp-content/uploads/2022/03/resep-capcay-goreng-a-la-restoran-510x306.jpg",
+          "https://www.masakapahariini.com/wp-content/uploads/2022/03/resep-capcay-goreng-a-la-restoran-250x150.jpg",
+          "https://www.masakapahariini.com/wp-content/uploads/2022/03/resep-capcay-goreng-a-la-restoran-500x300.jpg"
+        ]
+      },
+      {
+        "id": "resep-bakso-malang-mantap",
+        "title": "Resep Bakso Malang Mantap, Hangat Lezat untuk Menu Sahur",
+        "time": "2jam",
+        "servings": "6 Porsi",
+        "difficulty": "Cukup Rumit",
+        "recipe": "http://api-food-recipe.herokuapp.com/recipe/resep-bakso-malang-mantap",
+        "images": [
+          "https://www.masakapahariini.com/wp-content/uploads/2022/03/bakso-malang-mantap-400x240.jpg",
+          "https://www.masakapahariini.com/wp-content/uploads/2022/03/bakso-malang-mantap-510x306.jpg",
+          "https://www.masakapahariini.com/wp-content/uploads/2022/03/bakso-malang-mantap-250x150.jpg",
+          "https://www.masakapahariini.com/wp-content/uploads/2022/03/bakso-malang-mantap-500x300.jpg"
+        ]
+      },
+      {
+        "id": "resep-arem-arem-mie-isi-daging",
+        "title": "Resep Arem Arem Mie Isi Daging, Menu Takjil yang Berenergi",
+        "time": "2jam",
+        "servings": "4 Porsi",
+        "difficulty": "Cukup Rumit",
+        "recipe": "http://api-food-recipe.herokuapp.com/recipe/resep-arem-arem-mie-isi-daging",
+        "images": [
+          "https://www.masakapahariini.com/wp-content/uploads/2022/03/arem-arem-mie-isi-daging-400x240.jpg",
+          "https://www.masakapahariini.com/wp-content/uploads/2022/03/arem-arem-mie-isi-daging-510x306.jpg",
+          "https://www.masakapahariini.com/wp-content/uploads/2022/03/arem-arem-mie-isi-daging-250x150.jpg",
+          "https://www.masakapahariini.com/wp-content/uploads/2022/03/arem-arem-mie-isi-daging-500x300.jpg"
+        ]
+      },
+      {
+        "id": "resep-jamur-krispi-saus-thailand",
+        "title": "Resep Jamur Krispi Saus Thailand, Menu Takjil yang Spesial",
+        "time": "1jam",
+        "servings": "4 Porsi",
+        "difficulty": "Cukup Rumit",
+        "recipe": "http://api-food-recipe.herokuapp.com/recipe/resep-jamur-krispi-saus-thailand",
+        "images": [
+          "https://www.masakapahariini.com/wp-content/uploads/2022/03/resep-jamur-krispi-saus-thai-400x240.jpg",
+          "https://www.masakapahariini.com/wp-content/uploads/2022/03/resep-jamur-krispi-saus-thai-510x306.jpg",
+          "https://www.masakapahariini.com/wp-content/uploads/2022/03/resep-jamur-krispi-saus-thai-250x150.jpg",
+          "https://www.masakapahariini.com/wp-content/uploads/2022/03/resep-jamur-krispi-saus-thai-500x300.jpg"
+        ]
+      },
+      {
+        "id": "resep-fried-chicken-saus-telur-asin",
+        "title": "Resep Fried Chicken Saus Telur Asin, Lezat untuk Santap Sahur",
+        "time": "1jam",
+        "servings": "4 Porsi",
+        "difficulty": "Cukup Rumit",
+        "recipe": "http://api-food-recipe.herokuapp.com/recipe/resep-fried-chicken-saus-telur-asin",
+        "images": [
+          "https://www.masakapahariini.com/wp-content/uploads/2022/03/resep-fried-chicken-saus-telur-asin-400x240.jpg",
+          "https://www.masakapahariini.com/wp-content/uploads/2022/03/resep-fried-chicken-saus-telur-asin-510x306.jpg",
+          "https://www.masakapahariini.com/wp-content/uploads/2022/03/resep-fried-chicken-saus-telur-asin-250x150.jpg",
+          "https://www.masakapahariini.com/wp-content/uploads/2022/03/resep-fried-chicken-saus-telur-asin-500x300.jpg"
+        ]
+      },
+      {
+        "id": "resep-tahu-walik",
+        "title": "Resep Tahu Walik Isi Ayam Sayuran, Camilan Khas Banyuwangi",
+        "time": "1jam",
+        "servings": "4 Porsi",
+        "difficulty": "Cukup Rumit",
+        "recipe": "http://api-food-recipe.herokuapp.com/recipe/resep-tahu-walik",
+        "images": [
+          "https://www.masakapahariini.com/wp-content/uploads/2022/03/tahu-walik-siap-dinikmati-400x240.jpg",
+          "https://www.masakapahariini.com/wp-content/uploads/2022/03/tahu-walik-siap-dinikmati-510x306.jpg",
+          "https://www.masakapahariini.com/wp-content/uploads/2022/03/tahu-walik-siap-dinikmati-250x150.jpg",
+          "https://www.masakapahariini.com/wp-content/uploads/2022/03/tahu-walik-siap-dinikmati-1200x720.jpg",
+          "https://www.masakapahariini.com/wp-content/uploads/2022/03/tahu-walik-siap-dinikmati-500x300.jpg"
+        ]
+      }
+    ],
+    "virtual-stage": [
+      {
+        "id": 0,
+        "nameEvent": "CX-Stage",
+        "nameClient": "CX",
+        "backdrop": 0,
+        "backdropColor1": "0,0,0",
+        "backdropColor2": "1,0,0",
+        "backdropColor3": "1,1,1",
+        "floorColor1": "0.9,0.2,0.2",
+        "floorColor2": "0.1,0.1,0.1",
+        "floorEmis": "1,1,1",
+        "urlBanner": "https://upload.wikimedia.org/wikipedia/commons/4/41/Sunflower_from_Silesia2.jpg"
+      },
+      {
+        "id": 1,
+        "nameEvent": "NU-Stage",
+        "nameClient": "NU",
+        "backdrop": 0,
+        "backdropColor1": "0,0,0",
+        "backdropColor2": "0,1,0",
+        "backdropColor3": "1,1,1",
+        "floorColor1": "0,0,0",
+        "floorColor2": "0,0,0",
+        "floorEmis": "0,0,0",
+        "urlBanner": "https://cdn.pixabay.com/photo/2015/04/19/08/32/marguerite-729510_960_720.jpg"
+      }
     ]
-  }
+}
