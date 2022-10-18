@@ -1,0 +1,160 @@
+{
+  // ... dst fields
+	"world_template_name": "virtual_stage",
+	"world_template_version": "1.0.0",
+	"world_name": "virtual_stage-908sgh",
+	"title": "Gempita",
+	// ... dst fields
+  "content": 
+  {
+		
+    "sub_content" : [
+			{
+        "name": "green-screen",
+        "type": "video", //video/livestream
+        "url": "https://i.ibb.co/GcMCM46/MLBB-03.png" // postman: url atau file attach
+				"slope": {
+						"apple": 5,
+						"windows": 6
+				},
+				"threshold": {
+						"apple": 5,
+						"windows": 6
+				},
+				"color_key": {
+						"apple": 5,
+						"windows": 6
+				},
+      },
+      {
+        "name": "banner",
+        "type": "image",
+        "url": "https://i.ibb.co/GcMCM46/MLBB-03.png"
+      },
+      {
+        "name": "screen_stage_30x6_top",
+        "type": "image",
+        "url": "https://i.ibb.co/48fqkGr/MLBB-02.png"
+      },
+      {
+        "name": "screen_stage_9x18_center",
+        "type": "image",
+        "url": "https://i.ibb.co/GcMCM46/MLBB-03.png"
+      },
+      {
+        "name": "screen_stage_9x18_side",
+        "type": "image",
+        "url": "https://i.ibb.co/ZYkL3Xn/MLBB-05.png"
+      },
+      {
+        "name": "screen_stage_16x9_side",
+        "type": "image",
+        "url": "https://i.ibb.co/b2yS7b7/MLBB-07.png"
+      },
+      {
+        "name": "screen_stage_16x9_center",
+        "type": "image",
+        "url": ""
+      },
+      {
+        "name": "screen_floating",
+        "type": "image",
+        "url": "https://i.ibb.co/ScdnTRw/MLBB-01.png"
+      },
+      {
+        "name": "spawn_screen_center",
+        "type": "image",
+        "url": ""
+      },
+      {
+        "name": "spawn_screen_right",
+        "type": "image",
+        "url": ""
+      },
+      {
+      "name": "spawn_screen_left",
+        "type": "image",
+        "url": ""
+      },
+      {
+      "name": "spawn_screen_top_left",
+        "type": "livestream",
+        "url": "https://youtube.com"
+      }
+    ]
+  },
+  "room": 
+  {
+    "sub_content" : [
+      {
+        "name": "lantai",
+	      "color_base": "#ffffff",
+	      "color_side": "#ffffff",
+				"texture": "https://i.ibb.co/ScdnTRw/MLBB-01.png",
+        "emission": {
+          "isEnable": true,
+          "emission_intensity": 0.5,
+          "color_base": "#ffffff"
+        },
+        "main_gradient" : {
+          "isEnable": true,
+          "color_base": ["#ffffff","#ffffff"]
+        },
+        "side_gradient" : {
+          "isEnable": true,
+          "color_base": ["#ffffff","#ffffff"]
+        }
+      },
+      {
+        "name": "lamp",
+	      "color_base": "#ffffff",
+        "emission": {
+          "isEnable": true,
+          "emission_intensity": 0.5,
+          "color_base": "#ffffff"
+        }
+      },
+      {
+        "name": "pilar",
+	      "color_base": "#ffffff",
+        "color_side": "#ffffff",
+        "emission": {
+          "isEnable": true,
+          "emission_intensity": 0.5,
+          "color_base": "#FF2D00"
+        }
+      }
+    ]
+  },
+  "stage": 
+  {
+    "backdrop": {
+      "shape_id": 1,
+      "light_shape_id": 1,
+      "color_base": "#ffffff",
+      "color_lighting": "#ffffff"
+    },
+    "stage_floor" : {
+      "upperstage": {
+				"texture": "https://i.ibb.co/ScdnTRw/MLBB-01.png",
+        "front_color": "#ffffff",
+        "top_color": "#ffffff",
+        "emmision": {
+          "isEnable": true,
+          "emission_intensity": 0.5,
+          "color_base": "#ffffff"
+        }
+      },
+      "lowerstage": {
+				"texture": "https://i.ibb.co/ScdnTRw/MLBB-01.png",
+        "front_color": "#ffffff",
+        "top_color": "#ffffff",
+        "emmision": {
+          "isEnable": true,
+          "emission_intensity": 0.5,
+          "color_base": "#ffffff"
+        }
+      }
+    }
+  }
+}
