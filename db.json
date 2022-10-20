@@ -1,5 +1,5 @@
 {
-  "1":
+  "41":
   {
     "world_template_name":"virtual_stage",
     "world_template_version":1,
@@ -73,8 +73,8 @@
       "sub_content" : [
         {
           "name": "lantai",
-          "color_base": "#6B689A",
-          "color_side": "#6B689A",
+          "color_base": "#57616d",
+          "color_side": "#57616d",
           "emission": {
             "isEnable": true,
             "emission_intensity": 4,
@@ -101,7 +101,7 @@
         {
           "name": "pilar",
           "color_base": "#ffffff",
-          "color_side": "#00FFEE",
+          "color_side": "#453c8a",
           "emission": {
             "isEnable": true,
             "emission_intensity": 2,
@@ -110,13 +110,25 @@
         },
         {
           "name": "wall",
-          "color_base": "#00FFEE",
+          "color_base": "#949ba6",
           "texture": "https://i.ibb.co/b2yS7b7/MLBB-07.png",
           "emission": {
             "isEnable": true,
             "emission_intensity": 2,
             "color_base": "#ffffff"
           }
+        },
+        {
+          "name": "line wall bottom",
+          "color_base": "#453c8a"
+        },
+        {
+          "name": "line wall upper",
+          "color_base": "#453c8a"
+        },
+        {
+          "name": "line wall middle",
+          "color_base": "#453c8a"
         },
         {
           "name": "spawn",
@@ -128,7 +140,7 @@
             "color_base": "#ffffff"
           }
         }
-  
+
       ]
     },
     "stage": 
@@ -137,10 +149,11 @@
       "backdrop": {
         "shape_id": 1,
         "light_shape_id": 1,
-        "color_base": "#00FFEE",
+        "color_base": "#453c8a",
         "color_lighting": "#ffffff"
       },
       "stage_floor" : {
+        "color_base":"#453c8a",
         "upperstage": {
           "front_color": "#00FFEE",
           "top_color": "#0000",
@@ -160,6 +173,10 @@
           }
         }
       }
+    },
+    "spawn_screen": {
+      "color_base":"#453c8a",
+      "color_side":"#000000"
     }
   },
   "2":
