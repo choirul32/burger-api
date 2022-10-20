@@ -175,7 +175,7 @@
       }
     },
     "spawn_screen": {
-      "color_base":"#453c8a",
+      "color_base":"#000000",
       "color_side":"#000000"
     }
   },
